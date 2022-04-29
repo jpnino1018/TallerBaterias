@@ -11,7 +11,7 @@ public class InitModel {
 
 		batteries[0] = new Battery("AAA", 1.5, 100, 10);
 		batteries[1] = new Battery("AA", 1.5, 150, 80);
-        batteries[2] = new Battery("D", 1.2, 110, 12);
+        batteries[2] = new Battery("D", -1.2, 110, 12);
         batteries[3] = new Battery("C", 1.5, 150, 80);
 		batteries[4] = new Battery("D", 25, 2500, 1000);
         batteries[5] = new Battery("C", 5.5, 150, 50);
